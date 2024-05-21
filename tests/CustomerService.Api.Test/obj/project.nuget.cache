@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D275KqmMIkK4dOg8ni4GauAQzF6YQWxJpAmgfBw9YDAFubV57JW/Ma2sId4utV5+Sz9WZ8mKGruu/Za9ilaxrg==",
+  "dgSpecHash": "mOzCnRuIj7g7Npdr9hRXKZ8+CPa3jgj+YKglcTH0Svqn/XWt/PW5sArWg93YACyA9er8GjcZmrORPIoAwQwoFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\tests\\CustomerService.Api.Test\\CustomerService.Api.Test.csproj",
+  "projectFilePath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\tests\\CustomerService.Api.Test\\CustomerService.Api.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muham\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\muham\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

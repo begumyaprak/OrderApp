@@ -9157,11 +9157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\tests\\OrderService.Api.Test\\OrderService.Api.Test.csproj",
+      "projectUniqueName": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\tests\\OrderService.Api.Test\\OrderService.Api.Test.csproj",
       "projectName": "OrderService.Api.Test",
-      "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\tests\\OrderService.Api.Test\\OrderService.Api.Test.csproj",
+      "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\tests\\OrderService.Api.Test\\OrderService.Api.Test.csproj",
       "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\tests\\OrderService.Api.Test\\obj\\",
+      "outputPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\tests\\OrderService.Api.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9178,11 +9178,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\CustomerService\\CustomerService.Api\\CustomerService.Api.csproj": {
-              "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\CustomerService\\CustomerService.Api\\CustomerService.Api.csproj"
+            "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\CustomerService\\CustomerService.Api\\CustomerService.Api.csproj": {
+              "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\CustomerService\\CustomerService.Api\\CustomerService.Api.csproj"
             },
-            "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj": {
-              "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj"
+            "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj": {
+              "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj"
             }
           }
         }

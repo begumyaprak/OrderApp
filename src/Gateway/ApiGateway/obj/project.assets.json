@@ -967,11 +967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Gateway\\ApiGateway\\ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Gateway\\ApiGateway\\ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Gateway\\ApiGateway\\ApiGateway.csproj",
+      "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Gateway\\ApiGateway\\ApiGateway.csproj",
       "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Gateway\\ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Gateway\\ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",

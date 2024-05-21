@@ -3292,11 +3292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
       "projectName": "OrderService.Infrastructure",
-      "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3313,8 +3313,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj": {
-              "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApplication\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj"
+            "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj": {
+              "projectPath": "C:\\Users\\muham\\source\\Repos\\TesodevApp\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj"
             }
           }
         }

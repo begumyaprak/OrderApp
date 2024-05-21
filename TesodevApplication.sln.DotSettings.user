@@ -17,5 +17,11 @@
       &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.ValidateCustomer_ReturnsOk_WhenCustomerIsValid&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;Project Location="C:\Users\muham\source\Repos\TesodevApplication\tests\OrderService.Api.Test" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;OrderService.Api.Test&amp;gt;" /&gt;&#xD;
+    &lt;ProjectFile&gt;ACF47962-BCED-4294-951D-633AFA32BB2E/f:CreateCommandHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;44328196-F5DD-4C81-85D9-5B48C11A8E44/f:OrderControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;50B24F3D-BFDD-46F0-97B0-C98962BF0276/f:CustomersControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;ACF47962-BCED-4294-951D-633AFA32BB2E/f:UpdateCommandHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;9B431BF2-93BE-4409-A21E-5682CB4E44E8/f:CreateCustomerCommandHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;9B431BF2-93BE-4409-A21E-5682CB4E44E8/f:UpdateCustomerCommandHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
