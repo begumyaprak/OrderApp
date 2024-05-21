@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=SpellingFilter/@EntryIndexedValue">Off</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=NamingFilter/@EntryIndexedValue">Off</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=CodeStyle/@EntryIndexedValue">Off</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7929671d_002D14a1_002D488a_002Db25b_002D858ae9a89626/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCustomerById_ReturnsNotFound_WhenCustomerDoesNotExist" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.GetCustomerById_ReturnsNotFound_WhenCustomerDoesNotExist&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.GetCustomerById_ReturnsCustomer_WhenCustomerExists&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.GetAllCustomers_ReturnsAllCustomers&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.CreateCustomer_ReturnsCustomerId&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.UpdateCustomer_ReturnsNotFound_WhenUpdateFails&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.UpdateCustomer_ReturnsOk_WhenUpdateSucceeds&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.DeleteCustomer_ReturnsNotFound_WhenDeleteFails&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.DeleteCustomer_ReturnsOk_WhenDeleteSucceeds&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.ValidateCustomer_ReturnsBadRequest_WhenCustomerIsInvalid&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::50B24F3D-BFDD-46F0-97B0-C98962BF0276::net7.0::CustomersControllerTests.ValidateCustomer_ReturnsOk_WhenCustomerIsValid&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\muham\source\Repos\TesodevApplication\tests\OrderService.Api.Test" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;OrderService.Api.Test&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
